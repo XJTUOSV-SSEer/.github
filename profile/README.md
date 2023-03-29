@@ -13,9 +13,9 @@
 </p>
 
 ## 🧙Our Members
-* Yangxu, Ph.D. student in Xi'an Jiaotong University.
-* WangQiuhao, Master student in Xi'an Jiaotong University.
-* WangAo, Master student in Xi'an Jiaotong University.
+* XuYang, Ph.D. student in Xi'an Jiaotong University.
+* QiuhaoWang, Master student in Xi'an Jiaotong University.
+* AoWang, Master student in Xi'an Jiaotong University.
 
 ## 🙋‍♀️Our research and interest
 
