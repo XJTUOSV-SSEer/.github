@@ -22,7 +22,7 @@
 ## 🙋‍♀️<samp>Our Research and Interest</samp>
 
 * <samp>Searchable Encryption</samp>
-* <samp>IoT Security</samp>
+* <samp>IoTs Security</samp>
 * <samp>Blockchain</samp>
 * <samp>Graph Computing</samp>
 
