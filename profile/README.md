@@ -27,5 +27,4 @@
 * <samp>Graph Computing</samp>
 
 ## 👩‍💻Our Research Publications
-### 2022
-[CCF-B, IF=4.157] [Xu Yang, Chao Song, Mengdi Yu, Jiqing Gu and Ming Liu, "Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream", ACM Transactions on Knowledge Discovery from Data (TKDD), Volume 16, Issue 4, January 2022. Article No.: 79, pp 1–43. ](https://dl.acm.org/doi/10.1145/3494562)
+[TKDD'22] [Xu Yang, Chao Song, Mengdi Yu, Jiqing Gu and Ming Liu, "Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream", ACM Transactions on Knowledge Discovery from Data (TKDD), Volume 16, Issue 4, January 2022. Article No.: 79, pp 1–43.(CCF-B, IF=4.157)](https://dl.acm.org/doi/10.1145/3494562)
