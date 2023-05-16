@@ -31,4 +31,4 @@
 
 <samp>[BlockSys'23] [Xin Zhao, **Xu Yang**, Jianfeng Wang, and Saiyu Qi, "Obric: Oblivious Keyword Search in Hyperledger Fabric Platform", Accepted for BlockSys 2023. (EI)](https://...)</samp>
 
-<samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A) 2023. (EI)](https://...)</samp>
+<samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A, if=3.183) 2023. (EI)](https://...)</samp>
