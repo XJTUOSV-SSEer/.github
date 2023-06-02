@@ -30,7 +30,7 @@
 
 ## 👩‍💻<samp>Our Research Publications</samp>
 
-<samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A, IF=3.183)](https://...)</samp>
+<samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A, IF=3.183)](https://ieeexplore.ieee.org/document/10141866)</samp>
 
 <samp>[BlockSys'23] [Xin Zhao, **Xu Yang**, Jianfeng Wang, and Saiyu Qi, "Obric: Oblivious Keyword Search in Hyperledger Fabric Platform", Accepted for BlockSys (EI) 2023](https://...)</samp>
 
