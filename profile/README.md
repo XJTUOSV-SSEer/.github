@@ -30,7 +30,7 @@
 
 ## 👩‍💻<samp>Our Research Publications</samp>
 
-<samp>[KBS'23] [**Xu Yang**, Chao Song, Jiqing Gu, Ke Li and Hongwei Li, "A Distributed Streaming Framework for Edge-Cloud Triangle Counting in Graph Streams", Accepted for Knowledge-Based Systems (CCF-C, IF=8.8)](https://...)</samp>
+<samp>[KBS'23] [**Xu Yang**, Chao Song, Jiqing Gu, Ke Li and Hongwei Li, "A Distributed Streaming Framework for Edge-Cloud Triangle Counting in Graph Streams", Accepted for Knowledge-Based Systems (CCF-C, 中科院一区, IF=8.8)](https://...)</samp>
 
 <samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A, IF=3.7)](https://ieeexplore.ieee.org/document/10141866)</samp>
 
