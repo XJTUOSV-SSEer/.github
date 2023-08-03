@@ -30,7 +30,7 @@
 
 ## 👩‍💻<samp>Our Research Publications</samp>
 
-<samp>[JSAC'23] [**Xu Yang**, Chao Song, Jiqing Gu, Ke Li and Hongwei Li, "Bdacs: Blockchain based Auditable Data Access Control for IoT-enabled Digital Twin", Accepted for Journal on Selected Areas in Communications (CCF-A, 中科院一区, IF=16.4)](https://...)</samp>
+<samp>[JSAC'23] [Saiyu Qi, **Xu Yang**, Jiahe Yu and Yong Qi, "Bdacs: Blockchain based Auditable Data Access Control for IoT-enabled Digital Twin", Accepted for Journal on Selected Areas in Communications (CCF-A, 中科院一区, IF=16.4)](https://...)</samp>
 
 <samp>[KBS'23] [**Xu Yang**, Chao Song, Jiqing Gu, Ke Li and Hongwei Li, "A Distributed Streaming Framework for Edge-Cloud Triangle Counting in Graph Streams", Accepted for Knowledge-Based Systems (CCF-C, 中科院一区, IF=8.8)](https://...)</samp>
 
