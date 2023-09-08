@@ -30,7 +30,7 @@
 
 ## 👩‍💻<samp>Our Research Publications</samp>
 
-<samp>[TrustCom'23] [**Xu Yang**, **Ao Wang**, **Qiuhao Wang**, Saiyu Qi and Yong Qi, "A Practical and Privacy-Preserving Vehicular Data Sharing Framework by Using Blockchain", Accepted for BlockSys (EI) 2023](https://...)</samp>
+<samp>[TrustCom'23] [**Xu Yang**, **Ao Wang**, **Qiuhao Wang**, Saiyu Qi and Yong Qi, "A Practical and Privacy-Preserving Vehicular Data Sharing Framework by Using Blockchain", Accepted for TrustCom (CCF-C) 2023](https://...)</samp>
 
 <samp>[JSAC'23] [Saiyu Qi, **Xu Yang**, Jiahe Yu and Yong Qi, "Bdacs: Blockchain based Auditable Data Access Control for IoT-enabled Digital Twin", Accepted for Journal on Selected Areas in Communications (CCF-A, 中科院一区, IF=16.4)](https://ieeexplore.ieee.org/abstract/document/10239228)</samp>
 
