@@ -34,9 +34,9 @@
 
 <samp>[JSAC'23] [Saiyu Qi, **Xu Yang**, Jiahe Yu and Yong Qi, "Bdacs: Blockchain based Auditable Data Access Control for IoT-enabled Digital Twin", Accepted for Journal on Selected Areas in Communications (CCF-A, 中科院一区, IF=16.4)](https://ieeexplore.ieee.org/abstract/document/10239228)</samp>
 
-<samp>[KBS'23] [**Xu Yang**, Chao Song, Jiqing Gu, **Ke Li** and Hongwei Li, "A Distributed Streaming Framework for Edge-Cloud Triangle Counting in Graph Streams", Accepted for Knowledge-Based Systems (CCF-C, 中科院一区, IF=8.8)](https://www.sciencedirect.com/science/article/pii/S0950705123006287?via%3Dihub)</samp>
-
 <samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A, 中科院二区, IF=3.7)](https://ieeexplore.ieee.org/document/10141866)</samp>
+
+<samp>[KBS'23] [**Xu Yang**, Chao Song, Jiqing Gu, **Ke Li** and Hongwei Li, "A Distributed Streaming Framework for Edge-Cloud Triangle Counting in Graph Streams", Accepted for Knowledge-Based Systems (KBS), Volume 278, 2023. pp 110878.  (CCF-C, 中科院一区, IF=8.8)](https://www.sciencedirect.com/science/article/pii/S0950705123006287?via%3Dihub)</samp>
 
 <samp>[TKDD'22] [**Xu Yang**, Chao Song, Mengdi Yu, Jiqing Gu and Ming Liu, "Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream", ACM Transactions on Knowledge Discovery from Data (TKDD), Volume 16, Issue 4, January 2022. Article No.: 79, pp 1–43. (CCF-B, 中科院三区, IF=3.6)](https://dl.acm.org/doi/10.1145/3494562)</samp>
 
