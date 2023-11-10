@@ -28,7 +28,7 @@
 * <samp>Blockchain</samp>
 * <samp>Graph Computing</samp>
 * <samp>Decentralized Federated Learning</samp>
-* <samp>Data asset trading</samp>
+* <samp>Data Asset trading</samp>
 
 ## 👩‍💻<samp>Our Research Publications</samp>
 
