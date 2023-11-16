@@ -34,7 +34,7 @@
 
 ***Journal***
 
-<samp>[CN'23] [**Xu Yang**, Jiahe Yu, Saiyu Qi, **Qiuhao Wang**, Jianfeng Wang, Yanan Qiao and Yong Qi, "Less Payment and Higher Efficiency: A Verifiable, Fair and Forward-secure Range Query Scheme Using Blockchain", Accepted for Computer Networks (CCF-B, SCI-3, IF=5.6)](https://...)</samp>
+<samp>[CN'23] [**Xu Yang**, Jiahe Yu, Saiyu Qi, **Qiuhao Wang**, Jianfeng Wang, Yanan Qiao and Yong Qi, "Less Payment and Higher Efficiency: A Verifiable, Fair and Forward-secure Range Query Scheme Using Blockchain", Accepted for Computer Networks (CCF-B, SCI-3, IF=5.6)](https://www.sciencedirect.com/science/article/pii/S1389128623005534?via%3Dihub)</samp>
 
 <samp>[JSAC'23] [Saiyu Qi, **Xu Yang**, Jiahe Yu and Yong Qi, "Blockchain-aware Rollbackable Data Access Control for IoT-enabled Digital Twin", Accepted for IEEE Journal on Selected Areas in Communications, Volume 41, 2023. Article No. 11, pp 3517–3532. (CCF-A, SCI-1, IF=16.4)](https://ieeexplore.ieee.org/abstract/document/10239228)</samp>
 
