@@ -33,6 +33,7 @@
 ## 👩‍💻<samp>Our Research Publications</samp>
 
 ***Journal***
+
 <samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A, SCI-2, IF=3.7)](https://ieeexplore.ieee.org/document/10141866)</samp>
 
 <samp>[CN'23] [**Xu Yang**, Jiahe Yu, Saiyu Qi, **Qiuhao Wang**, Jianfeng Wang, Yanan Qiao and Yong Qi, "Less Payment and Higher Efficiency: A Verifiable, Fair and Forward-secure Range Query Scheme Using Blockchain", Computer Networks, Volume 237, 2023. pp 110108. (CCF-B, SCI-3, IF=5.6)](https://www.sciencedirect.com/science/article/pii/S1389128623005534?via%3Dihub)</samp>
