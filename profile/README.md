@@ -48,5 +48,5 @@
 
 <samp>[TrustCom'23] [**Xu Yang**, **Ao Wang**, **Qiuhao Wang**, Saiyu Qi and Yong Qi, "A Practical and Privacy-Preserving Vehicular Data Sharing Framework by Using Blockchain", Accepted for TrustCom (CCF-C), 2023](https://...)</samp>
 
-<samp>[BlockSys'23] [Xin Zhao, **Xu Yang**, Jianfeng Wang, and Saiyu Qi, "Obric: Oblivious Keyword Search in Hyperledger Fabric Platform", Accepted for BlockSys (EI), 2023](https://link.springer.com/chapter/10.1007/978-981-99-8104-5_14)https://link.springer.com/chapter/10.1007/978-981-99-8104-5_14)</samp>
+<samp>[BlockSys'23] [Xin Zhao, **Xu Yang**, Jianfeng Wang, and Saiyu Qi, "Obric: Oblivious Keyword Search in Hyperledger Fabric Platform", Accepted for BlockSys (EI), 2023](https://link.springer.com/chapter/10.1007/978-981-99-8104-5_14)</samp>
 
