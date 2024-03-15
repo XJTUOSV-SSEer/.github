@@ -45,6 +45,7 @@
 <samp>[TKDD'22] [**Xu Yang**, Chao Song, Mengdi Yu, Jiqing Gu and Ming Liu, "Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream", ACM Transactions on Knowledge Discovery from Data, Volume 16, Issue 4, January 2022. Article No. 79, pp 1–43. (CCF-B, SCI-3, IF=3.6)](https://dl.acm.org/doi/10.1145/3494562)</samp>
 
 ***Conference***
+<samp>[DASFAA'24] [**Qiuhao Wang**, **Xu Yang**, Saiyu Qi and Yong Qi, "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", Accepted for DASFAA (CCF-B), 2024](https://...)</samp>
 
 <samp>[TrustCom'23] [**Xu Yang**, **Ao Wang**, **Qiuhao Wang**, Saiyu Qi and Yong Qi, "A Practical and Privacy-Preserving Vehicular Data Sharing Framework by Using Blockchain", Accepted for TrustCom (CCF-C), 2023](https://...)</samp>
 
