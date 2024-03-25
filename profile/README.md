@@ -21,6 +21,11 @@
 * <samp>Ao Wang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Hongguang Zhao, Master Student in Xi'an Jiaotong University.</samp>
 
+***Soon-to-Graduate***
+
+* <samp>Jiahe Yu, Master Student in Xi'an Jiaotong University ---> POSTAL SAVINGS BANK OF CHINA.</samp>
+* <samp>Yuzhe Meng, Master Student in Xi'an Jiaotong University ---> POSTAL SAVINGS BANK OF CHINA.</samp>
+
 ## 🙋‍♀️<samp>Our Research and Interest</samp>
 
 * <samp>Searchable Encryption</samp>
