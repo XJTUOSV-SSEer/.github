@@ -53,7 +53,7 @@
 
 ***Conference***
 
-<samp>[DASFAA'24] [**Qiuhao Wang**, **Xu Yang**, Saiyu Qi and Yong Qi, "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", Accepted for DASFAA (CCF-B), 2024](https://arxiv.org/abs/2403.19531)</samp>
+<samp>[DASFAA'24] [**Qiuhao Wang\***, **Xu Yang\***, Saiyu Qi and Yong Qi, "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", Accepted for DASFAA (CCF-B), 2024](https://arxiv.org/abs/2403.19531)</samp>
 
 <samp>[TrustCom'23] [**Xu Yang**, **Ao Wang**, **Qiuhao Wang**, Saiyu Qi and Yong Qi, "A Practical and Privacy-Preserving Vehicular Data Sharing Framework by Using Blockchain", Accepted for TrustCom (CCF-C), 2023](https://...)</samp>
 
