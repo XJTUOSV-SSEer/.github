@@ -25,7 +25,7 @@
 * <samp>Chenyang Li, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Zixiang Ban, Master Student in Xi'an Jiaotong University.</samp>
 
-***Graduate***
+***Graduates***
 
 * <samp>Jiahe Yu, Master Student in Xi'an Jiaotong University ---> POSTAL SAVINGS BANK OF CHINA.</samp>
 * <samp>Yuzhe Meng, Master Student in Xi'an Jiaotong University ---> POSTAL SAVINGS BANK OF CHINA.</samp>
