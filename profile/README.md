@@ -47,7 +47,7 @@
 
 <samp>[TNSE'24] [**Xu Yang**, **Qiuhao Wang**, Saiyu Qi, **Ke Li**, Jianfeng Wang, Wenjia Zhao, Yong Qi, "Multi-client Verifiable Encrypted Keyword Search Scheme with Authorization over Outsourced Encrypted Data", Accepted for IEEE Transactions on Network Science and Engineering (SCI-1, IF=6.7)](https://ieeexplore.ieee.org/document/10643298)</samp>
 
-<samp>[TVT'24] [Wei Wei, Saiyu Qi, **Xu Yang**, Wenjia Zhao, Jun Gu, Kashif Salee, Yong Qi, "AACS: A Secure Attribute Based Data Access Control for Cloud-aided Internet of Vehicles Using SGX", Accepted for IEEE Transactions on Vehicular Technology (SCI-2, IF=6.8)](https://...)</samp>
+<samp>[TVT'24] [Wei Wei, Saiyu Qi, **Xu Yang**, Wenjia Zhao, Jun Gu, Kashif Salee, Yong Qi, "AACS: A Secure Attribute Based Data Access Control for Cloud-aided Internet of Vehicles Using SGX", Accepted for IEEE Transactions on Vehicular Technology (SCI-2, IF=6.8)](https://ieeexplore.ieee.org/document/10645317)</samp>
 
 <samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A, SCI-2, IF=3.7)](https://ieeexplore.ieee.org/document/10141866)</samp>
 
