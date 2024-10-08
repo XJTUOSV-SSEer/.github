@@ -63,6 +63,8 @@
 
 ***Conference***
 
+<samp>[BuildSys'24] [**Xu Yang\***, "PhD Forum Abstract: Block-DDT: A Blockchain-Empowered IoT Device Data Trading Scheme in Cloud Computing", Accepted for BuildSys'24](https://....)</samp>
+
 <samp>[DASFAA'24] [**Qiuhao Wang\***, **Xu Yang\***, Saiyu Qi and Yong Qi  (\* co-first authors), "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", Accepted for DASFAA (CCF-B), 2024](https://arxiv.org/abs/2403.19531)</samp>
 
 <samp>[TrustCom'23] [**Xu Yang**, **Ao Wang**, **Qiuhao Wang**, Saiyu Qi and Yong Qi, "A Practical and Privacy-Preserving Vehicular Data Sharing Framework by Using Blockchain", IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2023: 1300-1305. (CCF-C), 2023](https://ieeexplore.ieee.org/document/10538824)</samp>
