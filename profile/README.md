@@ -45,7 +45,7 @@
 
 ***Journal***
 
-<samp>[计算机技术与发展'24] [顾俊, **赵泓光**, 胡玉军, 杨旭, 齐赛宇, 齐勇. 一种面向分布式卫星网络的安全可靠数据通信方案. 计算机技术与发展, 2024 (CCF-C)](https:...)</samp>
+<samp>[计算机技术与发展'24] [顾俊, **赵泓光**, 胡玉军, 杨旭, 齐赛宇, 齐勇. 一种面向分布式卫星网络的安全可靠数据通信方案. 计算机技术与发展, 2024 (CCF-T3)](https:...)</samp>
 
 <samp>[TNSE'24] [**Xu Yang**, **Qiuhao Wang**, Saiyu Qi, **Ke Li**, Jianfeng Wang, Wenjia Zhao, Yong Qi, "Multi-client Verifiable Encrypted Keyword Search Scheme with Authorization over Outsourced Encrypted Data", Accepted for IEEE Transactions on Network Science and Engineering (SCI-1, IF=6.7)](https://ieeexplore.ieee.org/document/10643298)</samp>
 
