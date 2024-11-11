@@ -63,7 +63,7 @@
 
 ***Conference***
 
-<samp>[BuildSys'24] [**Xu Yang**, "PhD Forum Abstract: Block-DDT: A Blockchain-Empowered IoT Device Data Trading Scheme in Cloud Computing", Accepted for BuildSys, 2024](https://...)</samp>
+<samp>[BuildSys'24] [**Xu Yang**, "PhD Forum Abstract: Block-DDT: A Blockchain-Empowered IoT Device Data Trading Scheme in Cloud Computing", Accepted for BuildSys, 2024](https://dl.acm.org/doi/abs/10.1145/3671127.3699684)</samp>
 
 <samp>[DASFAA'24] [**Qiuhao Wang\***, **Xu Yang\***, Saiyu Qi and Yong Qi  (\* co-first authors), "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", Accepted for DASFAA (CCF-B), 2024](https://doi.org/10.1007/978-981-97-5562-2_2)</samp>
 
