@@ -26,6 +26,8 @@
 * <samp>Zixiang Ban, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Shenghui Liang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Zhiting Chen, Master Student in Xi'an Jiaotong University.</samp>
+* <samp>Yunfeng Shi, Master Student in Xi'an Jiaotong University.</samp>
+* <samp>Yifan Tang, Master Student in Xi'an Jiaotong University.</samp>
 
 ***Graduates***
 
