@@ -31,7 +31,8 @@
 * <samp>Yiwei Liu, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yingfang Wang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Ruiqi Liu, Master Student in Xi'an Jiaotong University.</samp>
-***Graduates***
+
+**Graduates***
 
 * <samp>Jiahe Yu, Master Student in Xi'an Jiaotong University ---> POSTAL SAVINGS BANK OF CHINA.</samp>
 * <samp>Yuzhe Meng, Master Student in Xi'an Jiaotong University ---> POSTAL SAVINGS BANK OF CHINA.</samp>
