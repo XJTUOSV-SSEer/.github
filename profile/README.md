@@ -68,11 +68,11 @@
 
 ***Conference***
 
-<samp>[BuildSys'24] [**Xu Yang**, "PhD Forum Abstract: Block-DDT: A Blockchain-Empowered IoT Device Data Trading Scheme in Cloud Computing", Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys). 2024: 254-255., 2024](https://dl.acm.org/doi/abs/10.1145/3671127.3699684)</samp>
+<samp>[BuildSys'24] [**Xu Yang**, "PhD Forum Abstract: Block-DDT: A Blockchain-Empowered IoT Device Data Trading Scheme in Cloud Computing", Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys). 2024: 254-255.](https://dl.acm.org/doi/abs/10.1145/3671127.3699684)</samp>
 
-<samp>[DASFAA'24] [**Qiuhao Wang\***, **Xu Yang\***, Saiyu Qi and Yong Qi  (\* co-first authors), "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", International Conference on Database Systems for Advanced Applications (DASFAA). Singapore: Springer Nature Singapore, 2024: 20-36. (CCF-B), 2024](https://doi.org/10.1007/978-981-97-5562-2_2)</samp>
+<samp>[DASFAA'24] [**Qiuhao Wang\***, **Xu Yang\***, Saiyu Qi and Yong Qi  (\* co-first authors), "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", International Conference on Database Systems for Advanced Applications (DASFAA). Singapore: Springer Nature Singapore, 2024: 20-36. (CCF-B)](https://doi.org/10.1007/978-981-97-5562-2_2)</samp>
 
-<samp>[TrustCom'23] [**Xu Yang**, **Ao Wang**, **Qiuhao Wang**, Saiyu Qi and Yong Qi, "A Practical and Privacy-Preserving Vehicular Data Sharing Framework by Using Blockchain", IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2023: 1300-1305. (CCF-C), 2023](https://ieeexplore.ieee.org/document/10538824)</samp>
+<samp>[TrustCom'23] [**Xu Yang**, **Ao Wang**, **Qiuhao Wang**, Saiyu Qi and Yong Qi, "A Practical and Privacy-Preserving Vehicular Data Sharing Framework by Using Blockchain", IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2023: 1300-1305. (CCF-C)](https://ieeexplore.ieee.org/document/10538824)</samp>
 
-<samp>[BlockSys'23] [Xin Zhao, **Xu Yang**, Jianfeng Wang, and Saiyu Qi, "Obric: Oblivious Keyword Search in Hyperledger Fabric Platform", International Conference on Blockchain and Trustworthy Systems. Singapore: Springer Nature Singapore, 2023: 176-191](https://link.springer.com/chapter/10.1007/978-981-99-8104-5_14)</samp>
+<samp>[BlockSys'23] [Xin Zhao, **Xu Yang**, Jianfeng Wang, and Saiyu Qi, "Obric: Oblivious Keyword Search in Hyperledger Fabric Platform", International Conference on Blockchain and Trustworthy Systems (BlockSys). Singapore: Springer Nature Singapore, 2023: 176-191](https://link.springer.com/chapter/10.1007/978-981-99-8104-5_14)</samp>
 
