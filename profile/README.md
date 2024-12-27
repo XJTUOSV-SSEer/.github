@@ -50,6 +50,8 @@
 
 ***Journal***
 
+<samp>[FGCS'24] [Wenjia Zhao, **Xu Yang**, Saiyu Qi, Junzhe Wei, Xinpei Dong, Xu Yang, Yong Qi, "Secure Blockchain-based Reputation System for IIoT-Enabled Retail Industry with Resistance to Sybil Attack", Accepted for Future Generation Computer Systems. (SCI-2, IF=6.2)]</samp>
+
 <samp>[计算机技术与发展'24] [顾俊, **赵泓光**, 胡玉军, 杨旭, 齐赛宇, 齐勇. 一种面向分布式卫星网络的安全可靠数据通信方案. 计算机技术与发展, 2024 (CCF-T3)](https:...)</samp>
 
 <samp>[TNSE'24] [**Xu Yang**, **Qiuhao Wang**, Saiyu Qi, **Ke Li**, Jianfeng Wang, Wenjia Zhao, Yong Qi, "Multi-client Verifiable Encrypted Keyword Search Scheme with Authorization over Outsourced Encrypted Data", IEEE Transactions on Network Science and Engineering, Volume 11, Issue 6, 2024, pp 6356-6371. (SCI-1, IF=6.7)](https://ieeexplore.ieee.org/document/10643298)</samp>
