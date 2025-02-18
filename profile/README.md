@@ -50,15 +50,17 @@
 
 ***Journal***
 
+<samp>[JSAC'25] [Saiyu Qi, **Qiuhao Wang**, Wei Wei, **Xu Yang**, **Hongguang Zhao**, Yuhao Liu, Xu Yang and Yong Qi, "ODD: Oblivious Data Deduplication over Blockchain-enabled Zero-trust Network", Accepted for IEEE Journal on Selected Areas in Communications. (CCF-A, SCI-1, IF=13.8)](https://...)</samp>
+
 <samp>[FGCS'25] [Wenjia Zhao, **Xu Yang**, Saiyu Qi, Junzhe Wei, Xinpei Dong, Xu Yang, Yong Qi, "Secure Blockchain-based Reputation System for IIoT-Enabled Retail Industry with Resistance to Sybil Attack", Accepted for Future Generation Computer Systems. (CCF-C, SCI-2, IF=6.2)](https://www.sciencedirect.com/science/article/pii/S0167739X24006691?via%3Dihub)</samp>
 
 <samp>[计算机技术与发展'24] [顾俊, **赵泓光**, 胡玉军, 杨旭, 齐赛宇, 齐勇. 一种面向分布式卫星网络的安全可靠数据通信方案. 计算机技术与发展, 2024 (CCF-T3)](https:...)</samp>
 
 <samp>[TNSE'24] [**Xu Yang**, **Qiuhao Wang**, Saiyu Qi, **Ke Li**, Jianfeng Wang, Wenjia Zhao, Yong Qi, "Multi-client Verifiable Encrypted Keyword Search Scheme with Authorization over Outsourced Encrypted Data", IEEE Transactions on Network Science and Engineering, Volume 11, Issue 6, 2024, pp 6356-6371. (SCI-1, IF=6.7)](https://ieeexplore.ieee.org/document/10643298)</samp>
 
-<samp>[TVT'24] [Wei Wei, Saiyu Qi, **Xu Yang**, Wenjia Zhao, Jun Gu, Kashif Salee, Yong Qi, "AACS: A Secure Attribute Based Data Access Control for Cloud-aided Internet of Vehicles Using SGX", Accepted for IEEE Transactions on Vehicular Technology (SCI-2, IF=6.8)](https://ieeexplore.ieee.org/document/10645317)</samp>
+<samp>[TVT'24] [Wei Wei, Saiyu Qi, **Xu Yang**, Wenjia Zhao, Jun Gu, Kashif Salee, Yong Qi, "AACS: A Secure Attribute Based Data Access Control for Cloud-aided Internet of Vehicles Using SGX", IEEE Transactions on Vehicular Technology, Volume 74, Issue 2, 2024, pp 2032-2047. (SCI-2, IF=6.8)](https://ieeexplore.ieee.org/document/10645317)</samp>
 
-<samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", Accepted for IEEE Transactions on Computers (CCF-A, SCI-2, IF=3.7)](https://ieeexplore.ieee.org/document/10141866)</samp>
+<samp>[TC'23] [Qin Jiang, Saiyu Qi, **Xu Yang**, Yong Qi, Jianfeng Wang, Youshui Lu, Bochao An and Ee-Chien Chang, "Reducing Paging and Exit Overheads in Intel SGX for Oblivious Conjunctive Keyword Search", IEEE Transactions on Computers, Volume 74, Issue 3, 2023, pp 776-789.  (CCF-A, SCI-2, IF=3.7)](https://ieeexplore.ieee.org/document/10141866)</samp>
 
 <samp>[CN'23] [**Xu Yang**, **Jiahe Yu**, Saiyu Qi, **Qiuhao Wang**, Jianfeng Wang, Yanan Qiao and Yong Qi, "Less Payment and Higher Efficiency: A Verifiable, Fair and Forward-secure Range Query Scheme Using Blockchain", Computer Networks, Volume 237, 2023. pp 110108. (CCF-B, SCI-2, IF=5.6)](https://www.sciencedirect.com/science/article/pii/S1389128623005534?via%3Dihub)</samp>
 
