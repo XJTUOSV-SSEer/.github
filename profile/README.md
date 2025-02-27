@@ -52,7 +52,7 @@
 
 <samp>[JSAC'25] [Saiyu Qi, **Qiuhao Wang**, Wei Wei, **Xu Yang**, **Hongguang Zhao**, Yuhao Liu, Xu Yang and Yong Qi, "ODD: Oblivious Data Deduplication over Blockchain-enabled Zero-trust Network", Accepted for IEEE Journal on Selected Areas in Communications. (CCF-A, SCI-1, IF=13.8)](https://...)</samp>
 
-<samp>[FGCS'25] [Wenjia Zhao, **Xu Yang**, Saiyu Qi, Junzhe Wei, Xinpei Dong, Xu Yang, Yong Qi, "Secure Blockchain-based Reputation System for IIoT-Enabled Retail Industry with Resistance to Sybil Attack", Accepted for Future Generation Computer Systems. (CCF-C, SCI-2, IF=6.2)](https://www.sciencedirect.com/science/article/pii/S0167739X24006691?via%3Dihub)</samp>
+<samp>[FGCS'25] [Wenjia Zhao, **Xu Yang**, Saiyu Qi, Junzhe Wei, Xinpei Dong, Xu Yang, Yong Qi, "Secure Blockchain-based Reputation System for IIoT-Enabled Retail Industry with Resistance to Sybil Attack", Future Generation Computer Systems, Volume 166, 2025. pp 107705. (CCF-C, SCI-2, IF=6.2)](https://www.sciencedirect.com/science/article/pii/S0167739X24006691?via%3Dihub)</samp>
 
 <samp>[计算机技术与发展'24] [顾俊, **赵泓光**, 胡玉军, 杨旭, 齐赛宇, 齐勇. 一种面向分布式卫星网络的安全可靠数据通信方案. 计算机技术与发展, 2024 (CCF-T3)](https:...)</samp>
 
