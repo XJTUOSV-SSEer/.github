@@ -72,6 +72,8 @@
 
 ***Conference***
 
+<samp>[DASFAA'25] [Jingxian Cheng, Qin Jiang, **Ao Wang**, Saiyu Qi, **Ke Li**, Zhangjie Fu and Yong Qi, "BlindChain: Keeping Query Privacy in Blockchain Out of Sight", Accepted by DASFAA 2025. (CCF-B)](https://...)</samp>
+
 <samp>[BuildSys'24] [**Xu Yang**, "PhD Forum Abstract: Block-DDT: A Blockchain-Empowered IoT Device Data Trading Scheme in Cloud Computing", Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys). 2024: 254-255.](https://dl.acm.org/doi/abs/10.1145/3671127.3699684)</samp>
 
 <samp>[DASFAA'24] [**Qiuhao Wang\***, **Xu Yang\***, Saiyu Qi and Yong Qi  (\* co-first authors), "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", International Conference on Database Systems for Advanced Applications (DASFAA). Singapore: Springer Nature Singapore, 2024: 20-36. (CCF-B)](https://doi.org/10.1007/978-981-97-5562-2_2)</samp>
