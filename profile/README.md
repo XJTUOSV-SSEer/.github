@@ -50,6 +50,8 @@
 
 ***Journal***
 
+<samp>[IOTJ'25] [Qin Jiang, **Xu Yang**, **Sifan Chen**, Saiyu Qi, Fuyuan Song and Zhangjie Fu, "XB-Muse: Practical Multi-User Dynamic Searchable Symmetric Encryption for Adaptive Revocation", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://...)</samp>
+
 <samp>[JSAC'25] [Saiyu Qi, **Qiuhao Wang**, Wei Wei, **Xu Yang**, **Hongguang Zhao**, Yuhao Liu, Xu Yang and Yong Qi, "ODD: Oblivious Data Deduplication over Blockchain-enabled Zero-trust Network", Accepted for IEEE Journal on Selected Areas in Communications. (CCF-A, SCI-1, IF=13.8)](https://...)</samp>
 
 <samp>[FGCS'25] [Wenjia Zhao, **Xu Yang**, Saiyu Qi, Junzhe Wei, Xinpei Dong, Xu Yang, Yong Qi, "Secure Blockchain-based Reputation System for IIoT-Enabled Retail Industry with Resistance to Sybil Attack", Future Generation Computer Systems, Volume 166, 2025. pp 107705. (CCF-C, SCI-2, IF=6.2)](https://www.sciencedirect.com/science/article/pii/S0167739X24006691?via%3Dihub)</samp>
