@@ -50,7 +50,7 @@
 
 ***Journal***
 
-<samp>[IOTJ'25] [**Xu Yang**, **Hongguang Zhao**, Saiyu Qi, Ke Li, Qiuhao Wang, Yong Qi, Wei Wei and Shahid Mumtaz, "Efficient and Confidentiality-Preserving Bloom
+<samp>[IOTJ'25] [**Xu Yang**, **Hongguang Zhao**, Saiyu Qi, **Ke Li**, **Qiuhao Wang**, Yong Qi, Wei Wei and Shahid Mumtaz, "Efficient and Confidentiality-Preserving Bloom
 Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://...)</samp>
 
 <samp>[IOTJ'25] [Qin Jiang, **Xu Yang**, **Sifan Chen**, Saiyu Qi, Fuyuan Song and Zhangjie Fu, "XB-Muse: Practical Multi-User Dynamic Searchable Symmetric Encryption for Adaptive Revocation", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://ieeexplore.ieee.org/abstract/document/10966426)</samp>
