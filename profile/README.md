@@ -18,8 +18,8 @@
 * <samp>Xu Yang, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Ke Li, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Qiuhao Wang, Ph.D. Student in Xi'an Jiaotong University.</samp>
+* <samp>Hongguang Zhao, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Ao Wang, Master Student in Xi'an Jiaotong University.</samp>
-* <samp>Hongguang Zhao, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Sifan Chen, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Jiayu Zhou, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Chenyang Li, Master Student in Xi'an Jiaotong University.</samp>
