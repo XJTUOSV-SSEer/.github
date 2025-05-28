@@ -22,7 +22,6 @@
 * <samp>Zheng He, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Shenghui Liang, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Sifan Chen, Master Student in Xi'an Jiaotong University.</samp>
-* <samp>Zixiang Ban, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Zhiting Chen, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yunfeng Shi, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yifan Tang, Master Student in Xi'an Jiaotong University.</samp>
@@ -32,11 +31,12 @@
 
 **Graduates***
 
-* <samp>Jiahe Yu, Master Student in Xi'an Jiaotong University ---> POSTAL SAVINGS BANK OF CHINA.</samp>
-* <samp>Yuzhe Meng, Master Student in Xi'an Jiaotong University ---> POSTAL SAVINGS BANK OF CHINA.</samp>
+* <samp>Jiahe Yu, Master Student in Xi'an Jiaotong University ---> Postal Savings Bank of China (Xi'an).</samp>
+* <samp>Yuzhe Meng, Master Student in Xi'an Jiaotong University ---> Postal Savings Bank of China (Xi'an).</samp>
 * <samp>Ao Wang, Master Student in Xi'an Jiaotong University ---> Alibaba Group.</samp>
 * <samp>Jiayu Zhou, Master Student in Xi'an Jiaotong University ---> Alibaba Group.</samp>
 * <samp>Chenyang Li, Master Student in Xi'an Jiaotong University--->State Grid Ningxia Electric Power Co., Ltd.</samp>
+* <samp>Zixiang Ban, Master Student in Xi'an Jiaotong University--->Postal Savings Bank of China (Hefei).</samp>
 
 ## 🙋‍♀️<samp>Our Research and Interest</samp>
 
