@@ -20,12 +20,12 @@
 * <samp>Qiuhao Wang, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Hongguang Zhao, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Zheng He, Ph.D. Student in Xi'an Jiaotong University.</samp>
+* <samp>Shenghui Liang, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Ao Wang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Sifan Chen, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Jiayu Zhou, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Chenyang Li, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Zixiang Ban, Master Student in Xi'an Jiaotong University.</samp>
-* <samp>Shenghui Liang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Zhiting Chen, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yunfeng Shi, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yifan Tang, Master Student in Xi'an Jiaotong University.</samp>
