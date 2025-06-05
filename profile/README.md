@@ -51,7 +51,7 @@
 
 ***Journal***
 
-<samp>[FGCS'25] [**Xu Yang**,  **Ke Li**, **Hongguang Zhao** and Saiyu Qi, "Practical Volume-Hiding Range Searchable Symmetric Encryption Using Trusted Execution", Accepted for Future Generation Computer Systems. (CCF-C, SCI-2, IF=6.2)](https://...)</samp>
+<samp>[FGCS'25] [**Xu Yang**,  **Ke Li**, **Hongguang Zhao** and Saiyu Qi, "Practical Volume-Hiding Range Searchable Symmetric Encryption Using Trusted Execution", Accepted for Future Generation Computer Systems. (CCF-C, SCI-2, IF=6.2)](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25002250)</samp>
 
 <samp>[IOTJ'25] [**Xu Yang**, **Hongguang Zhao**, Saiyu Qi, **Ke Li**, **Qiuhao Wang**, Yong Qi, Wei Wei and Shahid Mumtaz, "Efficient and Confidentiality-Preserving Bloom
 Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://ieeexplore.ieee.org/document/10981866)</samp>
