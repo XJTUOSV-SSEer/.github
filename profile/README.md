@@ -33,7 +33,7 @@
 * <samp>Jiahe Yu, Master Student in Xi'an Jiaotong University ---> Postal Savings Bank of China (Xi'an).</samp>
 * <samp>Yuzhe Meng, Master Student in Xi'an Jiaotong University ---> Postal Savings Bank of China (Xi'an).</samp>
 * <samp>Ao Wang, Master Student in Xi'an Jiaotong University ---> Alibaba Group.</samp>
-* <samp>Jiayu Zhou, Master Student in Xi'an Jiaotong University ---> Alibaba Group.</samp>
+* <samp>Jiayu Zhou, Master Student in Xi'an Jiaotong University ---> ByteDance.</samp>
 * <samp>Chenyang Li, Master Student in Xi'an Jiaotong University--->State Grid Ningxia Electric Power Co., Ltd.</samp>
 * <samp>Zixiang Ban, Master Student in Xi'an Jiaotong University--->Postal Savings Bank of China (Hefei).</samp>
 * <samp>Sifan Chen, Master Student in Xi'an Jiaotong University--->Shaanxi Provincial Intellectual Property Office.</samp>
