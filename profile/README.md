@@ -51,6 +51,8 @@
 
 ***Journal***
 
+<samp>[TC'25] [**Xu Yang**,  **Qiuhao Wang**, Saiyu Qi, **Ke Li** and Yong Qi, "RO(SE)2: Search-Efficient Robust Searchable Encryption with Forward and Backward Security", Accepted for IEEE Transactions on Computers. (CCF-A, SCI-2, IF=3.8)](https://..)</samp>
+
 <samp>[FGCS'25] [**Xu Yang**,  **Ke Li**, **Hongguang Zhao** and Saiyu Qi, "Practical Volume-Hiding Range Searchable Symmetric Encryption Using Trusted Execution", Accepted for Future Generation Computer Systems. (CCF-C, SCI-2, IF=6.2)](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25002250)</samp>
 
 <samp>[IOTJ'25] [**Xu Yang**, **Hongguang Zhao**, Saiyu Qi, **Ke Li**, **Qiuhao Wang**, Yong Qi, Wei Wei and Shahid Mumtaz, "Efficient and Confidentiality-Preserving Bloom
