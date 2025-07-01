@@ -92,3 +92,7 @@ Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF
 
 <samp>[BlockSys'23] [Xin Zhao, **Xu Yang**, Jianfeng Wang, and Saiyu Qi, "Obric: Oblivious Keyword Search in Hyperledger Fabric Platform", International Conference on Blockchain and Trustworthy Systems (BlockSys). Singapore: Springer Nature Singapore, 2023: 176-191](https://link.springer.com/chapter/10.1007/978-981-99-8104-5_14)</samp>
 
+***Patent***
+
+<samp>[2025] 一种基于区块链的卫星数据动态安全共享方法及系统. 杨旭，齐赛宇，赵泓光，王秋豪，李钶，杨旭
+
