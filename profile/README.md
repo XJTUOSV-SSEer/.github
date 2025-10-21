@@ -55,7 +55,7 @@
 
 ***Journal***
 
-<samp>[TKDE'25] [**Xu Yang**,  **Hongguang Zhao**, Saiyu Qi and Yong Qi, "SeaCQ: Secure and Efficient Authenticated Conjunctive Query in Hybrid-Storage Blockchains", Accepted for IEEE Transactions on Knowledge and Data Engineering. (CCF-A, SCI-1, IF=10.4)](https://....)</samp>
+<samp>[TKDE'25] [**Xu Yang**,  **Hongguang Zhao**, Saiyu Qi and Yong Qi, "SeaCQ: Secure and Efficient Authenticated Conjunctive Query in Hybrid-Storage Blockchains", Accepted for IEEE Transactions on Knowledge and Data Engineering. (CCF-A, SCI-1, IF=10.4)](https://ieeexplore.ieee.org/abstract/document/11205976)</samp>
 
 <samp>[TC'25] [**Xu Yang**,  **Qiuhao Wang**, Saiyu Qi, **Ke Li** and Yong Qi, "RO(SE)2: Search-Efficient Robust Searchable Encryption with Forward and Backward Security", Accepted for IEEE Transactions on Computers. (CCF-A, SCI-2, IF=3.8)](https://ieeexplore.ieee.org/document/11062890)</samp>
 
