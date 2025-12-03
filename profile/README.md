@@ -101,5 +101,6 @@ Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF
 ***Patent***
 
 <samp>[CN'25] [一种基于区块链的卫星数据动态安全共享方法及系统. **杨旭**，齐赛宇，**赵泓光**，**王秋豪**，**李钶**，杨旭](https://..)</samp>
+
 <samp>[CN'25] [一种基于区块链的安全可靠多星任务协同匹配方法. **杨旭**，齐赛宇，**赵泓光**，**李钶**，**王秋豪**，杨旭](https://..)</samp>
 
