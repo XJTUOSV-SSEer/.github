@@ -90,7 +90,7 @@ Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF
 
 <samp>[DASFAA'25] [Jingxian Cheng, Qin Jiang, **Ao Wang**, Saiyu Qi, **Ke Li**, Zhangjie Fu and Yong Qi, "BlindChain: Keeping Query Privacy in Blockchain Out of Sight", Accepted for DASFAA 2025. (CCF-B)](https://...)</samp>
 
-<samp>[BuildSys'24] [**Xu Yang**, "PhD Forum Abstract: Block-DDT: A Blockchain-Empowered IoT Device Data Trading Scheme in Cloud Computing", Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys). 2024: 254-255.](https://dl.acm.org/doi/abs/10.1145/3671127.3699684)</samp>
+<samp>[BuildSys'24] [**Xu Yang**, "Block-DDT: A Blockchain-Empowered IoT Device Data Trading Scheme in Cloud Computing", Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys). 2024: 254-255.](https://dl.acm.org/doi/abs/10.1145/3671127.3699684)</samp>
 
 <samp>[DASFAA'24] [**Qiuhao Wang\***, **Xu Yang\***, Saiyu Qi and Yong Qi  (\* co-first authors), "SecGraph: Towards SGX-based Efficient and Confidentiality-Preserving Graph Search", International Conference on Database Systems for Advanced Applications (DASFAA). Singapore: Springer Nature Singapore, 2024: 20-36. (CCF-B)](https://doi.org/10.1007/978-981-97-5562-2_2)</samp>
 
@@ -100,7 +100,7 @@ Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF
 
 ***Patent***
 
-<samp>[CN'25] [一种基于区块链的卫星数据动态安全共享方法及系统. **杨旭**，齐赛宇，**赵泓光**，**王秋豪**，**李钶**，杨旭. 专利号: ZL 2025 1 0641896.X](https://..)</samp>
-
 <samp>[CN'25] [一种基于区块链的安全可靠多星任务协同匹配方法. **杨旭**，齐赛宇，**赵泓光**，**李钶**，**王秋豪**，杨旭](https://..)</samp>
+
+<samp>[CN'25] [一种基于区块链的卫星数据动态安全共享方法及系统. **杨旭**，齐赛宇，**赵泓光**，**王秋豪**，**李钶**，杨旭. 专利号: ZL 2025 1 0641896.X](https://..)</samp>
 
