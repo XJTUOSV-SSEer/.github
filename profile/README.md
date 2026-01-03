@@ -44,7 +44,7 @@
 
 ## 🙋‍♀️<samp>Our Research and Interest</samp>
 
-* <samp>Searchable Encryption</samp>
+* <samp>Encrypted Search/Encrypted Access Control/Encrypted Deduplication/Encrypted Aggregation</samp>
 * <samp>Private information retrieval (PIR)/Private Set Intersection (PSI)/Private Set Union (PSU)</samp>
 * <samp>Distributed Database</samp>
 * <samp>Blockchain</samp>
