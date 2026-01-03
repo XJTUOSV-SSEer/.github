@@ -45,11 +45,13 @@
 ## 🙋‍♀️<samp>Our Research and Interest</samp>
 
 * <samp>Searchable Encryption</samp>
+* <samp>Private information retrieval (PIR)/Private Set Intersection (PSI)/Private Set Union (PSU)</samp>
 * <samp>Distributed Database</samp>
 * <samp>Blockchain</samp>
 * <samp>Graph Computing</samp>
 * <samp>Decentralized Federated Learning</samp>
 * <samp>Data Asset Trading</samp>
+* <samp>Crowdsourcing Matching>cROW>c
 
 ## 👩‍💻<samp>Our Research Publications</samp>
 
