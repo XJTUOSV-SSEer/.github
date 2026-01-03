@@ -51,7 +51,7 @@
 * <samp>Graph Computing</samp>
 * <samp>Decentralized Federated Learning</samp>
 * <samp>Data Asset Trading</samp>
-* <samp>Crowdsourcing Matching>cROW>c
+* <samp>Crowdsourcing Matching</samp>
 
 ## 👩‍💻<samp>Our Research Publications</samp>
 
