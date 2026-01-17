@@ -94,7 +94,7 @@ Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF
 
 ***Conference***
 
-<samp>[ICASSP'26] [**Ke Li\***, **Xu Yang\***,**Zixiang Ban\***  (\* co-first authors), "RoPFL: Robust and Privacy-Preserving Decentralized Federated Learning Framework", Accepted for ICASSP 2026. (CCF-B)](https://...)</samp>
+<samp>[ICASSP'26] [**Ke Li\***, **Xu Yang\***,**Zixiang Ban\***, Saiyu Qi, **Zheng He**, **Hongguang Zhao**, **Qiuhao Wang** (\* co-first authors), "RoPFL: Robust and Privacy-Preserving Decentralized Federated Learning Framework", Accepted for ICASSP 2026. (CCF-B)](https://...)</samp>
 
 <samp>[DASFAA'25] [Jingxian Cheng, Qin Jiang, **Ao Wang**, Saiyu Qi, **Ke Li**, Zhangjie Fu and Yong Qi, "BlindChain: Keeping Query Privacy in Blockchain Out of Sight", Accepted for DASFAA 2025. (CCF-B)](https://...)</samp>
 
