@@ -57,7 +57,7 @@
 
 ***Journal***
 
-<samp>[TMC'26] [**Xu Yang**, Saiyu Qi, **Jiayu Zhou**, **Zheng He** and **Yong Qi**, "Invisible, Yet Trusted: Blockchain-Empowered Privacy-Preserving Spatio-Temporal Task Matching in Crowdsourcing with Efficient Public Verification", Accepted for IEEE Transactions on Mobile Computing. (CCF-A, SCI-1, IF=9.2)](https://...)</samp>
+<samp>[TMC'26] [**Xu Yang**, Saiyu Qi, **Jiayu Zhou**, **Zheng He** and **Yong Qi**, "Invisible, Yet Trusted: Blockchain-Empowered Privacy-Preserving Spatio-Temporal Task Matching in Crowdsourcing with Efficient Public Verification", Accepted for IEEE Transactions on Mobile Computing. (CCF-A, SCI-1, IF=9.2)](https://ieeexplore.ieee.org/document/11355819)</samp>
 
 <samp>[TITS'25] [**Xu Yang**, Wei Wei, Saiyu Qi, **YuZhe Meng**, Jiaqi Yang, Jingxian Cheng, **Ke Li** and **Hongguang Zhao**, "TMVcrowd: An Authorized and Fine-grained Encrypted Task Matching Framework on Blockchain for Vehicular Crowdsourcing", Accepted for IEEE Transactions on Intelligent Transportation Systems. (CCF-B, SCI-1, IF=8.4)](https://...)</samp>
 
@@ -93,6 +93,8 @@ Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF
 <samp>[TKDD'22] [**Xu Yang**, Chao Song, Mengdi Yu, Jiqing Gu and Ming Liu, "Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream", ACM Transactions on Knowledge Discovery from Data, Volume 16, Issue 4, January 2022. Article No. 79, pp 1–43. (CCF-B, SCI-3, IF=3.6)](https://dl.acm.org/doi/10.1145/3494562)</samp>
 
 ***Conference***
+
+<samp>[DASFAA'25] [**Ke Li\***, **Xu Yang\***,**Zixiang Ban\***  (\* co-first authors), "RoPFL: Robust and Privacy-Preserving Decentralized Federated Learning Framework", Accepted for ICASSP 2026. (CCF-B)](https://...)</samp>
 
 <samp>[DASFAA'25] [Jingxian Cheng, Qin Jiang, **Ao Wang**, Saiyu Qi, **Ke Li**, Zhangjie Fu and Yong Qi, "BlindChain: Keeping Query Privacy in Blockchain Out of Sight", Accepted for DASFAA 2025. (CCF-B)](https://...)</samp>
 
