@@ -57,6 +57,8 @@
 
 ***Journal***
 
+<samp>[TVT'26] [**Xu Yang**, Saiyu Qi, Wei Wei, **Ao Wang**, Jiaqi Yang, Jingxian Cheng and Wenjia Zhao, "V2Share: Blockchain-Enabled Verifiable Data Sharing with Privacy Preserving in Vehicular Social Networks", Accepted for IEEE Transactions on Vehicular Technology (SCI-2, IF=7.1)](https://...)</samp>
+
 <samp>[TMC'26] [**Xu Yang**, Saiyu Qi, **Jiayu Zhou**, **Zheng He** and **Yong Qi**, "Invisible, Yet Trusted: Blockchain-Empowered Privacy-Preserving Spatio-Temporal Task Matching in Crowdsourcing with Efficient Public Verification", Accepted for IEEE Transactions on Mobile Computing. (CCF-A, SCI-1, IF=9.2)](https://ieeexplore.ieee.org/document/11355819)</samp>
 
 <samp>[TITS'25] [**Xu Yang**, Wei Wei, Saiyu Qi, **YuZhe Meng**, Jiaqi Yang, Jingxian Cheng, **Ke Li** and **Hongguang Zhao**, "TMVcrowd: An Authorized and Fine-grained Encrypted Task Matching Framework on Blockchain for Vehicular Crowdsourcing", Accepted for IEEE Transactions on Intelligent Transportation Systems. (CCF-B, SCI-1, IF=8.4)](https://...)</samp>
