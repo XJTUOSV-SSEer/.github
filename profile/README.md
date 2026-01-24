@@ -61,7 +61,7 @@
 
 <samp>[TMC'26] [**Xu Yang**, Saiyu Qi, **Jiayu Zhou**, **Zheng He** and **Yong Qi**, "Invisible, Yet Trusted: Blockchain-Empowered Privacy-Preserving Spatio-Temporal Task Matching in Crowdsourcing with Efficient Public Verification", Accepted for IEEE Transactions on Mobile Computing. (CCF-A, SCI-1, IF=9.2)](https://ieeexplore.ieee.org/document/11355819)</samp>
 
-<samp>[TITS'25] [**Xu Yang**, Wei Wei, Saiyu Qi, **YuZhe Meng**, Jiaqi Yang, Jingxian Cheng, **Ke Li** and **Hongguang Zhao**, "TMVcrowd: An Authorized and Fine-grained Encrypted Task Matching Framework on Blockchain for Vehicular Crowdsourcing", Accepted for IEEE Transactions on Intelligent Transportation Systems. (CCF-B, SCI-1, IF=8.4)](https://...)</samp>
+<samp>[TITS'26] [**Xu Yang**, Wei Wei, Saiyu Qi, **YuZhe Meng**, Jiaqi Yang, Jingxian Cheng, **Ke Li** and **Hongguang Zhao**, "TMVcrowd: An Authorized and Fine-grained Encrypted Task Matching Framework on Blockchain for Vehicular Crowdsourcing", Accepted for IEEE Transactions on Intelligent Transportation Systems. (CCF-B, SCI-1, IF=8.4)](https://...)</samp>
 
 <samp>[TKDE'25] [**Xu Yang**,  **Hongguang Zhao**, Saiyu Qi and Yong Qi, "SeaCQ: Secure and Efficient Authenticated Conjunctive Query in Hybrid-Storage Blockchains", Accepted for IEEE Transactions on Knowledge and Data Engineering. (CCF-A, SCI-1, IF=10.4)](https://ieeexplore.ieee.org/abstract/document/11205976)</samp>
 
