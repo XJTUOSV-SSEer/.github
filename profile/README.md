@@ -57,6 +57,8 @@
 
 ***Journal***
 
+<samp>[IOTJ'26] [**Qiuhao Wang**, **Xu Yang**, Saiyu Qi, **Yiwei Liu**,  **Hongguang Zhao**, **Ke Li**, and Wenjia Zhao, "Secure and Efficient Keyword Search over Encrypted Graphs with Trusted Hardware", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://...)</samp>
+
 <samp>[TVT'26] [**Xu Yang**, Saiyu Qi, Wei Wei, **Ao Wang**, Jiaqi Yang, Jingxian Cheng and Wenjia Zhao, "V2Share: Blockchain-Enabled Verifiable Data Sharing with Privacy Preserving in Vehicular Social Networks", Accepted for IEEE Transactions on Vehicular Technology (SCI-2, IF=7.1)](https://ieeexplore.ieee.org/abstract/document/11367445/)</samp>
 
 <samp>[TMC'26] [**Xu Yang**, Saiyu Qi, **Jiayu Zhou**, **Zheng He** and **Yong Qi**, "Invisible, Yet Trusted: Blockchain-Empowered Privacy-Preserving Spatio-Temporal Task Matching in Crowdsourcing with Efficient Public Verification", Accepted for IEEE Transactions on Mobile Computing. (CCF-A, SCI-1, IF=9.2)](https://ieeexplore.ieee.org/abstract/document/11355819)</samp>
