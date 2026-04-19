@@ -31,6 +31,7 @@
 * <samp>Yilin Zhang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Tongyuxiu Zhou, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Xinyue Cheng, Master Student in Xi'an Jiaotong University.</samp>
+* <samp>Chengjun Zhu, Undergraduate Student in Xi'an Jiaotong University.</samp>
 
 **Graduates***
 
