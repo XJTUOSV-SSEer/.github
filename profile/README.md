@@ -58,6 +58,8 @@
 
 ***Journal***
 
+<samp>[TITS'26] [**Xu Yang**, Saiyu Qi, Wei Wei, **Hongguang Zhao**, Jingxian Cheng, Xinpei Dong, **Qiuhao Wang**, **Ke Li** and Wenjia Zhao, "Bdes: Blockchain-Empowered Data and Energy Sharing in Internet of Electric Vehicles", Accepted for IEEE Transactions on Intelligent Transportation Systems. (CCF-B, SCI-1, IF=8.4)](https://)</samp>
+
 <samp>[IOTJ'26] [**Qiuhao Wang**, **Xu Yang**, Saiyu Qi, **Yiwei Liu**,  **Hongguang Zhao**, **Ke Li**, and Wenjia Zhao, "Secure and Efficient Keyword Search over Encrypted Graphs with Trusted Hardware", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://ieeexplore.ieee.org/abstract/document/11456037)</samp>
 
 <samp>[TVT'26] [**Xu Yang**, Saiyu Qi, Wei Wei, **Ao Wang**, Jiaqi Yang, Jingxian Cheng and Wenjia Zhao, "V2Share: Blockchain-Enabled Verifiable Data Sharing with Privacy Preserving in Vehicular Social Networks", Accepted for IEEE Transactions on Vehicular Technology (SCI-2, IF=7.1)](https://ieeexplore.ieee.org/abstract/document/11367445/)</samp>
