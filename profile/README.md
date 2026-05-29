@@ -60,7 +60,7 @@
 
 <samp>[IOTJ'26] [Saiyu Qi, **Ke Li**, Wei Wei and **Xu Yang**, "OCDS: Consortium Blockchain-Empowered Oblivious and Consistent Data Asset Sharing for Internet of Vehicles", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://..)</samp>
 
-<samp>[CN'26] [Xu Yang \*, **Xu Yang\***, Saiyu Qi, **Ruiqi Liu**, **Zheng He**, and **Hongguang Zhao**  (\* co-first authors), "vObliChain: Securing Satellite Networks with Verifiable Oblivious Search over Blockchain Databases. (CCF-B, SCI-3, IF=4.6)](https://...)</samp>
+<samp>[CN'26] [Xu Yang \*, **Xu Yang\***, Saiyu Qi, **Ruiqi Liu**, **Zheng He**, and **Hongguang Zhao**  (\* co-first authors), "vObliChain: Securing Satellite Networks with Verifiable Oblivious Search over Blockchain Databases. (CCF-B, SCI-3, IF=4.6)](https://www.sciencedirect.com/science/article/pii/S1389128626004275)</samp>
 
 <samp>[TITS'26] [**Xu Yang**, Saiyu Qi, Wei Wei, **Hongguang Zhao**, Jingxian Cheng, Xinpei Dong, **Qiuhao Wang**, **Ke Li** and Wenjia Zhao, "Bdes: Blockchain-Empowered Data and Energy Sharing in Internet of Electric Vehicles", Accepted for IEEE Transactions on Intelligent Transportation Systems. (CCF-B, SCI-1, IF=8.4)](https://ieeexplore.ieee.org/document/11523153)</samp>
 
