@@ -32,6 +32,7 @@
 * <samp>Tongyuxiu Zhou, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Xinyue Cheng, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Chengjun Zhu, Undergraduate Student in Xi'an Jiaotong University.</samp>
+* <samp>Mingze Fu, Undergraduate Student in Xi'an Jiaotong University.</samp>
 
 **Graduates***
 
@@ -57,6 +58,8 @@
 ## 👩‍💻<samp>Our Research Publications</samp>
 
 ***Journal***
+
+<samp>[KBS'26] [Jingxian Cheng, **Yingfang Wang**, Tianqing Zhu, **Xu Yang**, Ningning Cui, Jianxin Li , "DynaMind: A dynamic learned index for update-intensive workloads", Accepted for Knowledge-Based Systems. (CCF-C, SCI-1, IF=7.6)](https://www.sciencedirect.com/science/article/pii/S095070512601083X?via%3Dihub)</samp>
 
 <samp>[IOTJ'26] [Saiyu Qi, **Ke Li**, Wei Wei and **Xu Yang**, "OCDS: Consortium Blockchain-Empowered Oblivious and Consistent Data Asset Sharing for Internet of Vehicles", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://..)</samp>
 
