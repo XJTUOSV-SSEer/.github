@@ -15,13 +15,12 @@
 
 
 ## 🧙<samp>Our Members</samp>
-* <samp>Xu Yang, Ph.D. Student in Xi'an Jiaotong University.</samp>
+* <samp>Xu Yang, Assistant Professor in Xi'an Jiaotong University.</samp>
 * <samp>Ke Li, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Qiuhao Wang, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Hongguang Zhao, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Zheng He, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Shenghui Liang, Ph.D. Student in Xi'an Jiaotong University.</samp>
-* <samp>Zhiting Chen, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yunfeng Shi, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yifan Tang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yiwei Liu, Master Student in Xi'an Jiaotong University.</samp>
@@ -43,6 +42,7 @@
 * <samp>Chenyang Li, Master Student in Xi'an Jiaotong University--->State Grid Ningxia Electric Power Co., Ltd.</samp>
 * <samp>Zixiang Ban, Master Student in Xi'an Jiaotong University--->Postal Savings Bank of China (Hefei).</samp>
 * <samp>Sifan Chen, Master Student in Xi'an Jiaotong University--->Shaanxi Provincial Intellectual Property Office.</samp>
+* <samp>Zhiting Chen, Master Student in Xi'an Jiaotong University ---> Tencent.</samp>
 
 ## 🙋‍♀️<samp>Our Research and Interest</samp>
 
@@ -59,9 +59,11 @@
 
 ***Journal***
 
-<samp>[KBS'26] [Jingxian Cheng, **Yingfang Wang**, Tianqing Zhu, **Xu Yang**, Ningning Cui, Jianxin Li , "DynaMind: A dynamic learned index for update-intensive workloads", Accepted for Knowledge-Based Systems. (CCF-C, SCI-1, IF=7.6)](https://www.sciencedirect.com/science/article/pii/S095070512601083X?via%3Dihub)</samp>
+<samp>[TNSE'26] [**Hongguang Zhao**, **Xu Yang**, Saiyu Qi, Jingxian Cheng, "Search As You Want: Authenticated Keyword Search on Graphs with Bounded Leakage", Accepted for IEEE Transactions on Network Science and Engineering. (SCI-1, IF=7.2)](https://...)</samp>
 
-<samp>[IOTJ'26] [Saiyu Qi, **Ke Li**, Wei Wei and **Xu Yang**, "OCDS: Consortium Blockchain-Empowered Oblivious and Consistent Data Asset Sharing for Internet of Vehicles", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://..)</samp>
+<samp>[KBS'26] [Jingxian Cheng, **Yingfang Wang**, Tianqing Zhu, **Xu Yang**, Ningning Cui, Jianxin Li, "DynaMind: A dynamic learned index for update-intensive workloads", Accepted for Knowledge-Based Systems. (CCF-C, SCI-1, IF=7.6)](https://www.sciencedirect.com/science/article/pii/S095070512601083X?via%3Dihub)</samp>
+
+<samp>[IOTJ'26] [Saiyu Qi, **Ke Li**, Wei Wei and **Xu Yang**, "OCDS: Consortium Blockchain-Empowered Oblivious and Consistent Data Asset Sharing for Internet of Vehicles", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://ieeexplore.ieee.org/abstract/document/11552390/)</samp>
 
 <samp>[CN'26] [Xu Yang \*, **Xu Yang\***, Saiyu Qi, **Ruiqi Liu**, **Zheng He**, and **Hongguang Zhao**  (\* co-first authors), "vObliChain: Securing Satellite Networks with Verifiable Oblivious Search over Blockchain Databases. (CCF-B, SCI-3, IF=4.6)](https://www.sciencedirect.com/science/article/pii/S1389128626004275)</samp>
 
