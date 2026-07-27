@@ -59,7 +59,7 @@
 
 ***Journal***
 
-<samp>[TNSE'26] [**Hongguang Zhao**, **Xu Yang**, Saiyu Qi, Jingxian Cheng, "Search As You Want: Authenticated Keyword Search on Graphs with Bounded Leakage", Accepted for IEEE Transactions on Network Science and Engineering. (SCI-1, IF=7.2)](https://...)</samp>
+<samp>[TNSE'26] [**Hongguang Zhao**, **Xu Yang**, Saiyu Qi, Jingxian Cheng, "Search As You Want: Authenticated Keyword Search on Graphs with Bounded Leakage", Accepted for IEEE Transactions on Network Science and Engineering. (SCI-1, IF=7.2)](https://ieeexplore.ieee.org/document/11622852)</samp>
 
 <samp>[KBS'26] [Jingxian Cheng, **Yingfang Wang**, Tianqing Zhu, **Xu Yang**, Ningning Cui, Jianxin Li, "DynaMind: A dynamic learned index for update-intensive workloads", Accepted for Knowledge-Based Systems. (CCF-C, SCI-1, IF=7.6)](https://www.sciencedirect.com/science/article/pii/S095070512601083X?via%3Dihub)</samp>
 
