@@ -59,7 +59,7 @@
 
 ***Journal***
 
-<samp>[IOTJ'26] [ **Ke Li**, **Xu Yang**, Saiyu Qi, Wei Wei, Zixiang Ban, Hongguang Zhao, Qiuhao Wang, Wenjai Zhao, "DoshFL: Decentralized Federated Learning for Model Asset Protection in Vehicular Networks", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://...)</samp>
+<samp>[IOTJ'26] [ **Ke Li**, **Xu Yang**, Saiyu Qi, Wei Wei, **Zixiang Ban**, **Hongguang Zhao**, **Qiuhao Wang**, Wenjai Zhao, "DoshFL: Decentralized Federated Learning for Model Asset Protection in Vehicular Networks", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://...)</samp>
 
 <samp>[TNSE'26] [**Hongguang Zhao**, **Xu Yang**, Saiyu Qi, Jingxian Cheng, "Search As You Want: Authenticated Keyword Search on Graphs with Bounded Leakage", Accepted for IEEE Transactions on Network Science and Engineering. (SCI-1, IF=7.2)](https://ieeexplore.ieee.org/document/11622852)</samp>
 
