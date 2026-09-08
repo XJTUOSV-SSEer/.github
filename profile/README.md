@@ -23,7 +23,6 @@
 * <samp>Shenghui Liang, Ph.D. Student in Xi'an Jiaotong University.</samp>
 * <samp>Yunfeng Shi, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yifan Tang, Master Student in Xi'an Jiaotong University.</samp>
-* <samp>Yiwei Liu, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yingfang Wang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Ruiqi Liu, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Yanbo Tao, Master Student in Xi'an Jiaotong University.</samp>
@@ -42,6 +41,7 @@
 * <samp>Chenyang Li, Master Student in Xi'an Jiaotong University---> State Grid Ningxia Electric Power Co., Ltd.</samp>
 * <samp>Zixiang Ban, Master Student in Xi'an Jiaotong University---> Postal Savings Bank of China (Hefei).</samp>
 * <samp>Sifan Chen, Master Student in Xi'an Jiaotong University---> Shaanxi Provincial Intellectual Property Office.</samp>
+* <samp>Yiwei Liu, Master Student in Xi'an Jiaotong University ---> China Development Bank.</samp>
 * <samp>Zhiting Chen, Master Student in Xi'an Jiaotong University ---> Tencent.</samp>
 * <samp>Xu Yang, Ph.D. Student in Xi'an Jiaotong University ---> Xi'an Jiaotong University.</samp>
 
