@@ -112,6 +112,7 @@ Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF
 <samp>[TKDD'22] [**Xu Yang**, Chao Song, Mengdi Yu, Jiqing Gu and Ming Liu, "Distributed Triangle Approximately Counting Algorithms in Simple Graph Stream", ACM Transactions on Knowledge Discovery from Data, Volume 16, Issue 4, January 2022. Article No. 79, pp 1–43. (CCF-B, SCI-3, IF=3.6)](https://dl.acm.org/doi/10.1145/3494562)</samp>
 
 ***Conference***
+<samp>[SIGMOD'27] [**Qiuhao Wang**, **Zuowei Chen**, **Xu Yang**, Saiyu Qi, and Yong Qi, "Amora: Communication-Efficient Private Approximate Nearest Neighbors Search", Accepted for SIGMOD 2027. (CCF-A)](https://...) </samp>
 
 <samp>[ICASSP'26] [**Ke Li\***, **Xu Yang\***, **Zixiang Ban\***, Saiyu Qi, **Zheng He**, **Hongguang Zhao**, **Qiuhao Wang** (\* co-first authors), "RoPFL: Robust and Privacy-Preserving Decentralized Federated Learning Framework", Accepted for ICASSP 2026. (CCF-B)](https://...)</samp>
 
