@@ -113,7 +113,7 @@ Filter-Encoded Video Search", Accepted for IEEE Internet of Things Journal. (CCF
 
 ***Conference***
 
-<samp>[SIGMOD'27] [**Qiuhao Wang**, **Zuowei Chen**, **Xu Yang**, Saiyu Qi, and Yong Qi, "Amora: Communication-Efficient Private Approximate Nearest Neighbors Search", Accepted for SIGMOD 2027. (CCF-A)](https://...) </samp>
+<samp>[SIGMOD'27] [**Qiuhao Wang**, **Zuowei Chen**, **Xu Yang**, Saiyu Qi, and Yong Qi, "Amora: Communication-Efficient Private Approximate Nearest Neighbors Search", Accepted for SIGMOD 2027. (CCF-A)](https://arxiv.org/abs/2610.21174) </samp>
 
 <samp>[ICASSP'26] [**Ke Li\***, **Xu Yang\***, **Zixiang Ban\***, Saiyu Qi, **Zheng He**, **Hongguang Zhao**, **Qiuhao Wang** (\* co-first authors), "RoPFL: Robust and Privacy-Preserving Decentralized Federated Learning Framework", Accepted for ICASSP 2026. (CCF-B)](https://...)</samp>
 
