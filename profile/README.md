@@ -29,8 +29,8 @@
 * <samp>Yilin Zhang, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Tongyuxiu Zhou, Master Student in Xi'an Jiaotong University.</samp>
 * <samp>Xinyue Cheng, Master Student in Xi'an Jiaotong University.</samp>
-* <samp>Chengjun Zhu, Undergraduate Student in Xi'an Jiaotong University.</samp>
-* <samp>Mingze Fu, Undergraduate Student in Xi'an Jiaotong University.</samp>
+* <samp>Chengjun Zhu, Master Student in Xi'an Jiaotong University.</samp>
+* <samp>Mingze Fu, Master Student in Xi'an Jiaotong University.</samp>
 
 **Graduates***
 
@@ -59,8 +59,9 @@
 ## 👩‍💻<samp>Our Research Publications</samp>
 
 ***Journal***
+<samp>[TNSE'26] [**Hongguang Zhao**, **Xu Yang**, Saiyu Qi, **Qiuhao Wang**, **Ke Li**, Wenjia Zhao, Yue Yang, "NetChain: Authenticated Blockchain Top-k Graph Data Queries and its Application in Asset Management", Accepted for IEEE Transactions on Network Science and Engineering. (SCI-1, IF=7.2)]()</samp>
 
-<samp>[IOTJ'26] [ **Ke Li**, **Xu Yang**, Saiyu Qi, Wei Wei, **Zixiang Ban**, **Hongguang Zhao**, **Qiuhao Wang**, Wenjai Zhao, "DoshFL: Decentralized Federated Learning for Model Asset Protection in Vehicular Networks", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://ieeexplore.ieee.org/abstract/document/11664443/)</samp>
+<samp>[IOTJ'26] [ **Ke Li**, **Xu Yang**, Saiyu Qi, Wei Wei, **Zixiang Ban**, **Hongguang Zhao**, **Qiuhao Wang**, Wenjia Zhao, "DoshFL: Decentralized Federated Learning for Model Asset Protection in Vehicular Networks", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://ieeexplore.ieee.org/abstract/document/11664443/)</samp>
 
 <samp>[TNSE'26] [**Hongguang Zhao**, **Xu Yang**, Saiyu Qi, Jingxian Cheng, "Search As You Want: Authenticated Keyword Search on Graphs with Bounded Leakage", Accepted for IEEE Transactions on Network Science and Engineering. (SCI-1, IF=7.2)](https://ieeexplore.ieee.org/document/11622852)</samp>
 
