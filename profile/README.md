@@ -60,7 +60,7 @@
 
 ***Journal***
 
-<samp>[TNSE'26] [**Hongguang Zhao**, **Xu Yang**, Saiyu Qi, **Qiuhao Wang**, **Ke Li**, Wenjia Zhao, Yue Yang, "NetChain: Authenticated Blockchain Top-k Graph Data Queries and its Application in Asset Management", Accepted for IEEE Transactions on Network Science and Engineering. (SCI-1, IF=7.2)]()</samp>
+<samp>[TNSE'26] [**Hongguang Zhao**, **Xu Yang**, Saiyu Qi, **Qiuhao Wang**, **Ke Li**, Wenjia Zhao, Yue Yang, "NetChain: Authenticated Blockchain Top-k Graph Data Queries and its Application in Asset Management", Accepted for IEEE Transactions on Network Science and Engineering. (SCI-1, IF=7.2)](https://ieeexplore.ieee.org/document/11771100)</samp>
 
 <samp>[IOTJ'26] [ **Ke Li**, **Xu Yang**, Saiyu Qi, Wei Wei, **Zixiang Ban**, **Hongguang Zhao**, **Qiuhao Wang**, Wenjia Zhao, "DoshFL: Decentralized Federated Learning for Model Asset Protection in Vehicular Networks", Accepted for IEEE Internet of Things Journal. (CCF-C, SCI-1, IF=8.2)](https://ieeexplore.ieee.org/abstract/document/11664443/)</samp>
 
